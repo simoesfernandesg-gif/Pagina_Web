@@ -1,0 +1,12 @@
+
+/* Esse bloco de código CSS serve para organizar e estilizar o grupo de imagens*/
+
+.container-imagens {
+  display: flex;
+  gap: 15px; /* Espaço entre as imagens */
+}
+
+.container-imagens img {
+  max-width: 100%; /* Garante que sejam responsivas */
+  height: auto;
+}
