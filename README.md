@@ -19,4 +19,4 @@ exibindo links e imagens de sites favoritos lado a lado de forma responsiva.
 ```text
 📁 seu-projeto/
  ┣ 📄 index.html    # Arquivo principal com a estrutura HTML
- ┗ 📄 style.css     # Arquivo de estilos com as regras do Flexbox
+ ┗ 📄 style.css     # Arquivo de estilos com as regras do CSS
